@@ -28,8 +28,10 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 ## Evaluation
 
-* 10% Exercises
-* 90% Projects
+* 75% Projects (3 projects, 25% each)
+* 15% Exercises
+* 10% Class participation
+
 
 ## Schedule
 
