@@ -2,8 +2,8 @@
 
 Due date: June 22nd at midnight
 
--The result of your analysis will be evaluated from a report in Jupiter, which must be found in a public GitHub repository.
--The project must be carried out in groups of 4 people.
+- The result of your analysis will be evaluated from a report in Jupiter, which must be found in a public GitHub repository.
+- The project must be carried out in groups of 4 people.
 - Use clear and rigorous procedures.
 - The delivery of the project is on June 22, 2020, 11:59 pm, through Sicua + (Upload repository link).
 -Projects will not be received after the delivery time or by any other means than the one established.
