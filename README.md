@@ -38,8 +38,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### Time Series Analysis
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June 16th | ARIMA Processes | <ul><li>[1 - Intro to TSA]() </li> <li>[2 - ARMA processes]() </li></ul> | <ul><li>[E1 - TSA Applications]() </li><li>[E2 - Python TSA Analysis]() </li>  </ul> | 
-| June 18th | Working with TSA | |  | 
+| June 16th | ARIMA Processes | <ul><li>[1 - Intro to TSA](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/01-IntroTSA.ipynb) </li> <li>[2 - ARIMA processes](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/02-ARIMA.ipynb) </li></ul> | <ul><li>[E1 - TSA Applications](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E1%20-%20Examples%20TSA.md) </li><li>[E2 - Python TSA Analysis](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E02-TSA.ipynb) </li> <li>[E3 - ARIMA](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E03-ARIMA.ipynb) </li> </ul> | 
+| June 18th | Working with TSA | <ul><li>[3 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/03-TSA-prophet.ipynb) </li> </ul> |   <ul><li>[E4 - Panel Data](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E04%20-%20Panel%20Data.md) </li> <li>[E4 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E05-prophet.ipynb) </li> <li>[P1 - TSA](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/P1-TSL.md) </li> </ul>| 
 
 ### Machine Learning Systems
 | Date | Session         | Notebooks/Presentations          | Exercises |
