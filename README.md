@@ -39,21 +39,21 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | June 16th | ARIMA Processes | <ul><li>[1 - Intro to TSA](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/01-IntroTSA.ipynb) </li> <li>[2 - ARIMA processes](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/02-ARIMA.ipynb) </li></ul> | <ul><li>[E1 - TSA Applications](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E1%20-%20Examples%20TSA.md) </li><li>[E2 - Python TSA Analysis](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E02-TSA.ipynb) </li> <li>[E3 - ARIMA](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E03-ARIMA.ipynb) </li> </ul> | 
-| June 18th | Working with TSA | <ul><li>[3 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/03-TSA-prophet.ipynb) </li> </ul> |   <ul><li>[E4 - Panel Data](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E04%20-%20Panel%20Data.md) </li> <li>[E4 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E05-prophet.ipynb) </li> <li>[P1 - TSA](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/P1-TSL.md) </li> </ul>| 
+| June 18th | Working with TSA | <ul><li>[3 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/03-TSA-prophet.ipynb) </li> </ul> |   <ul><li>[E4 - Panel Data](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E04%20-%20Panel%20Data.md) </li> <li>[E5 - Prophet](https://nbviewer.jupyter.org/github/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/E05-prophet.ipynb) </li> <li>[P1 - TSA](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/Exercises/P1-TSL.md) </li> </ul>| 
 
 ### Machine Learning Systems
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June 23rd | Decision Trees & Ensembles | |  | 
-| June 24th | Machine Learning as a Service | |  | 
-| June 25th | Machine Learning Pipelines | |  | 
+| June 23rd | Decision Trees & Ensembles | <ul><li>[4 - Decision Trees](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/04-DecisionTrees.ipynb) </li> <li>[5 - Bagging](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/05-Ensembles_Bagging.ipynb) </li></ul>| <ul><li>[E6 - DT]() </li> <li>[E7 - DT & Ensembles]() </li></ul> | 
+| June 24th | Random Forest and XGBoost | <ul><li>[6 - Random Forests](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/06-Ensembles_RandomForest.ipynb) </li> <li>[7 - XGBoost](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/07-ensembles%20XGboost.ipynb) </li></ul>| <ul><li>[E8 - Variations to Random Forests]() </li> <li>[E9 - Random Forest]() </li><li>[E10 - XgBoost]() </li></ul> | 
+| June 25th | Machine Learning as a Service  |  <ul><li>[8 Introduction to Rest APIs](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/08-IntroductionToAPIs.ipynb) </li> <li>[9 - Model Deployment](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/09-Model_Deployment.ipynb) </li> <li>[10 - APIs in AWS](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass/blob/master/notebooks/10-CreatingAPIinAWS.ipynb) </li></ul> | <ul><li>[E11 - API Review]() </li> <li>[P2 - Trees and APIs]() </li></ul> | 
 
  ### Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June 30th | Natural Language Processing  | <ul><li>[Introduction to NLP]() </li></ul> <ul><li>[Introduction to NLP II ]() </li></ul> |  | 
-| July 1st |  Sentiment Analysis | <ul><li>[Sentiment Analysis]() </li></ul> |  |
-| July 2nd |  NLP using Neural Networks | <ul><li>[Introduction to NN - MLP]() </li><li>[LSTM]() </li></ul> |  |
+| June 30th | Natural Language Processing  |  <ul><li>[11 - Introduction to NLP]() </li></ul> <ul><li>[12 - Introduction to NLP II ]() </li></ul> | <ul><li>[E12 - NLP Review]() </li><li>[E13 - Sentiment Analysis]() </li> </ul> | 
+| July 1st |  Sentiment Analysis | <ul><li>[13 - Sentiment Analysis]() </li></ul> | <ul><li>[E14 - Homeworks Analysis]() </li>  </ul> |
+| July 2nd |  NLP using Neural Networks | <ul><li>[14 - Introduction to NN - MLP]() </li><li>[15 - LSTM]() </li></ul> | <ul> <li>[P3 - NLP Movies Analysis API]() </li> </ul> |
 
 
 
